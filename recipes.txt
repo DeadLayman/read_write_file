@@ -1,26 +1,26 @@
-Omelette
+Омлет
 3
-Eggs | 2 | pcs
-Milk | 100 | ml
-Tomato | 2 | piece
+Яйцо | 2 | шт
+Молоко | 100 | мл
+Помидор | 2 | шт
 
-Peking Duck
+Утка по-пекински
 4
-Duck | 1 | piece
-Water | 2 | l
-Honey | 3 | tbsp.l
-Soy sauce | 60 | ml
+Утка | 1 | шт
+Вода | 2 | л
+Мед | 3 | ст.л
+Соевый соус | 60 | мл
 
-Baked potatoes
+Запеченный картофель
 3
-Potatoes | 1 | kg
-Garlic | 3 | cloves
-Gouda cheese | 100 | g
+Картофель | 1 | кг
+Чеснок | 3 | зубч
+Сыр гауда | 100 | г
 
-Fajitos
+Фахитос
 5
-Beef | 500 | g
-Sweet pepper | 1 | piece
-Lavash | 2 | piece
-Wine vinegar | 1 | tbsp.l
-Tomato | 2 | pcs
+Говядина | 500 | г
+Перец сладкий | 1 | шт
+Лаваш | 2 | шт
+Винный уксус | 1 | ст.л
+Помидор | 2 | шт
